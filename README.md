@@ -4,4 +4,5 @@ Use this extension with my repo: https://chrome.google.com/webstore/detail/snowl
 
 ## A fine list of our cdns
 
-1. https://cdn.jsdelivr.net/gh/cursorweb/quizletcheat/index.js
+1. https://cdn.jsdelivr.net/gh/cursorweb/quizletcheat/quizlet/cheat1.js
+1. https://cdn.jsdelivr.net/gh/cursorweb/quizletcheat/quizlet/cheat2.js

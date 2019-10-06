@@ -6,3 +6,4 @@ Use this extension with my repo: https://chrome.google.com/webstore/detail/snowl
 
 1. https://cdn.jsdelivr.net/gh/cursorweb/quizletcheat/quizlet/cheat1.js
 1. https://cdn.jsdelivr.net/gh/cursorweb/quizletcheat/quizlet/cheat2.js
+1. https://cdn.jsdelivr.net/gh/cursorweb/quizletcheat/quizlet/dependencies.js
